@@ -1,0 +1,33 @@
+{
+  "name": "angular-barcode-listener",
+  "main": "angular-barcode-listener.js",
+  "version": "1.5.4",
+  "homepage": "https://github.com/goodeggs/angular-barcode-listener",
+  "description": "Listen for barcode scanner events in your Angular application",
+  "keywords": [
+    "angularjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.14"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.14"
+  },
+  "_release": "1.5.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.5.4",
+    "commit": "8ead41b1356ee82b8229b155e2deaff0d9c6de78"
+  },
+  "_source": "https://github.com/shemarlindie/angular-barcode-listener.git",
+  "_target": "^1.5.4",
+  "_originalSource": "shemarlindie/angular-barcode-listener"
+}
